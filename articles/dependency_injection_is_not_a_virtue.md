@@ -47,7 +47,7 @@ assert_equal 24, article.published_at.day
 > This pattern is so useful that Travis Jeffrey wrapped it up in the popular Timecop gem. But if you've acquired a design taste for the Java-friendly pattern of dependency injection, it looks gross. It's a gut reaction trained on pattern matching. The brain goes HARD CODE ALERT! HARD CODE ALERT! That's the danger with patterns: they can quickly graduate from tool to taste.
 
 このパターンは非常に便利なので、Travis Jeffrey氏は人気の高いTimecop gemにまとめています。
-しかし、依存性注入というJavaに適したパターンの設計テイストを身につけていると、それは気持ち悪く見えるものです。これは、パターンマッチングで鍛えられた直感的な反応です。脳は「ハードコード・アラート！ハードコード・アラート！」となります。これがパターンの危険なところで、ツールからテイストへとすぐに卒業してしまうのです。[^3]
+しかし、依存性注入というJavaに適したパターンの設計テイストを身につけていると、それは気持ち悪く見えるものです。これは、パターンマッチングで鍛えられた直感的な反応です。脳は「ハードコード・アラート！ハードコード・アラート！」となります。これがパターンの危険なところで、~~ツールからテイストへとすぐに卒業してしまうのです~~ ツールだったはずのものが様式へと変容してしまうのです。[^3]
 
 > Adam Keys' goes on to put forward a fine argument of whether you're designing for your tests or your API (and Lloyd Kupchanko also shared some wise words on how the API suffers from DI). I don't think there's actually much of a dichotomy between the two in a language like Ruby. We can have the clarity and simplicity of hard coded references and still be able to easily test them, as shown above.
 
@@ -82,4 +82,4 @@ Adam Keys氏は、テストとAPIのどちらのために設計しているの�
 
 [^1]: 翻訳ツールかますとメチャクチャだったので、7割マニュアルで訳してます
 [^2]: 「そこまでする必要があるか？」という意味っぽい
-[^3]: 「ツールからテイストへの卒業」の意味はよくわからず
+[^3]: @snowcrushさんにコメントいただき噛み砕いた表現になりました
