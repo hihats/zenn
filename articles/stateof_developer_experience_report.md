@@ -1,9 +1,9 @@
 ---
 title: "State of Developer Experience Report 2024 概説"
-emoji: "👨‍💻"
+emoji: "📊"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["DevOps", "development", "platform", "developer experience"]
-published: false
+published: true
 ---
 :::message
 本記事は[クラウドワークスグループ Advent Calendar 2024](https://qiita.com/advent-calendar/2024/crowdworks) 21日目の記事です。
