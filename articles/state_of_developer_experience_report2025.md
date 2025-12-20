@@ -3,7 +3,7 @@ title: "State of Developer Experience Report 2025 概説"
 emoji: "📊"
 type: "tech"
 topics: ["DevOps", "platform", "DevEx"]
-published: false
+published: true
 ---
 
 # State of Developer Experience Report 2025 概説
