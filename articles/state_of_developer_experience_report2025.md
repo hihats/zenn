@@ -20,9 +20,9 @@ https://zenn.dev/hihats/articles/stateof_developer_experience_report
 
 「開発者が、日常的にソフトウェアをデリバリーする際に使うツールやフレームワーク、プロセスに対してどう感じているか」
 
-いわゆる開発者体験です。Digital Transformationとの混同を避けるため本記事では**DevEx**と表記します。
+いわゆる開発者体験です。DXと略して呼ぶこともありますが、Digital Transformationとの混同を避けるため本記事では**DevEx**と表記します。
 
-Atlassian CTOのRajeev Rajan氏は冒頭で「何十年もの間、業界の多くの部分が変化してきたが、基本的な真実は変わらない：**喜びなくして生産性なし**」と述べており、DevExの本質的な価値を端的に表現しています。
+Atlassian CTOのRajeev Rajan氏は本レポート冒頭で「何十年もの間、業界の多くの部分が変化してきたが、基本的な真実は変わらない：**喜びなくして生産性なし**」と述べており、DevExの本質的な価値を端的に表現しています。
 
 ## 2024年版からの変化
 
